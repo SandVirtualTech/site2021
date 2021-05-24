@@ -29,7 +29,6 @@ body {
   overflow-x:hidden;
   letter-spacing: 0.075em;
   -webkit-font-smoothing : antialiased;
-  background-image: url("/images/bg2.jpg");
 }
 
 h2 span {
